@@ -75,7 +75,6 @@ I actively build projects to strengthen my real-world understanding of AWS, Kube
 - Dockerized applications for consistent and reliable deployments  
 - CI/CD pipelines using GitHub Actions and Jenkins  
 - Infrastructure provisioning with Terraform  
-- Kubernetes deployments and cluster fundamentals  
 
 ### 🔹 Portfolio Website
 - Built and deployed using **GitHub Pages**
