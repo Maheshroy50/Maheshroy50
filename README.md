@@ -1,4 +1,4 @@
-# Hi, I'm Mahesh Bhoopathi Rao 👋
+# Hi, I’m **Mahesh Bhoopathi Rao** 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maheshroy50&label=Profile%20Views&color=2f80ed&style=for-the-badge" />
@@ -8,100 +8,134 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=2F80ED&width=520&lines=Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Preparing+for+AWS+CCP" />
 </p>
 
-🚀 Aspiring **DevOps Engineer** focused on cloud infrastructure, automation, and CI/CD pipelines.  
-📘 Currently preparing for the **AWS Certified Cloud Practitioner (CCP)** exam.  
-🌐 Portfolio: https://maheshroy50.github.io/
+🚀 **Aspiring DevOps Engineer** with a strong focus on cloud infrastructure, automation, and CI/CD pipelines
+📘 Currently preparing for **AWS Certified Cloud Practitioner (CCP)**
+🌐 **Portfolio:** [https://maheshroy50.github.io](https://maheshroy50.github.io)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a motivated DevOps learner with hands-on experience in cloud services, containerization, and automation. I enjoy designing scalable infrastructure, improving deployment workflows, and continuously learning modern DevOps and cloud-native practices.
+I’m a motivated DevOps learner with hands-on experience in **cloud platforms, containerization, and automation**. I enjoy building scalable infrastructure, streamlining deployment workflows, and solving real-world infrastructure challenges.
 
-I actively build projects to strengthen my real-world understanding of AWS, Kubernetes, CI/CD, and infrastructure automation.
+I actively work on practical projects to deepen my understanding of **AWS, Docker, Kubernetes, CI/CD pipelines, and Infrastructure as Code**, with the goal of becoming a production-ready DevOps engineer.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### ☁️ DevOps & Cloud
-- Docker  
-- Kubernetes  
-- GitHub Actions  
-- Jenkins  
-- Terraform  
-- CI/CD Pipelines  
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* Jenkins
+* Terraform
+* CI/CD Pipelines
 
 ### ☁️ AWS Services
-- AWS EC2  
-- AWS S3  
-- AWS IAM  
-- Amazon Route 53  
-- Amazon RDS  
-- Elastic Beanstalk  
-- AWS Lambda  
-- Amazon DynamoDB  
-- AWS CloudFormation  
+
+* EC2
+* S3
+* IAM
+* Route 53
+* RDS
+* Elastic Beanstalk
+* Lambda
+* DynamoDB
+* CloudFormation
 
 ### 📊 Monitoring & Observability
-- Prometheus  
-- Grafana  
+
+* Prometheus
+* Grafana
 
 ---
 
 ### 💻 Programming & Scripting
-- Python (Automation & Scripting)  
-- Shell Scripting (Bash)  
-- JavaScript  
-- SQL  
-- Swift  
-- HTML  
-- CSS  
+
+* Python (Automation & Scripting)
+* Bash / Shell Scripting
+* JavaScript
+* SQL
+* Swift
+* HTML
+* CSS
 
 ---
 
 ### ⚙️ Infrastructure & Tools
-- Linux Administration  
-- Networking & Security Groups  
-- Ansible  
-- VPNs / IDS / IPS  
-- Firewalls  
-- Git & Version Control  
+
+* Linux Administration
+* Networking & Security Groups
+* Ansible
+* Firewalls, VPNs, IDS / IPS
+* Git & Version Control
 
 ---
-##  Projects
 
-### 🔹 DevOps & Cloud Projects
-- Dockerized applications for consistent and reliable deployments  
-- CI/CD pipelines using GitHub Actions and Jenkins  
-- Infrastructure provisioning with Terraform  
+## 🚀 Projects
 
-### 🔹 Portfolio Website
-- Built and deployed using **GitHub Pages**
-- Clean UI with responsive design  
-🔗 Live: https://maheshroy50.github.io/
+### 🔹 AWS EC2 – Static Website Deployment
+
+🔗 [https://github.com/Maheshroy50/aws-ec2-static-site-deployment](https://github.com/Maheshroy50/aws-ec2-static-site-deployment)
+
+* Deployed a static website on **AWS EC2** using **Nginx**
+* Configured **security groups, key pairs, and Linux server setup**
+* Implemented manual deployment workflows and basic server hardening
+
+---
+
+### 🔹 CI/CD Pipeline – GitHub Actions to AWS EC2
+
+🔗 [https://github.com/Maheshroy50/ci-cd-pipeline](https://github.com/Maheshroy50/ci-cd-pipeline)
+
+* Built an automated **CI/CD pipeline using GitHub Actions**
+* Enabled **automatic deployments to AWS EC2** on every code push
+* Reduced manual intervention and improved deployment reliability
+
+---
+
+### 🔹 MEAN Stack Dockerized Application
+
+🔗 [https://github.com/Maheshroy50/mean-stack-app](https://github.com/Maheshroy50/mean-stack-app)
+
+* Developed a full-stack **CRUD application** using MongoDB, Express, Angular 15, and Node.js
+* Dockerized the entire application using a **multi-container architecture**
+* Integrated a **production-ready CI/CD pipeline** for AWS deployment
+* Focused on scalability, container orchestration, and real-world DevOps workflows
+
+---
+
+### 🌐 Portfolio Website (Featured)
+
+🔗 **Live:** [https://maheshroy50.github.io](https://maheshroy50.github.io)
+
+* Designed and deployed a **responsive personal portfolio website**
+* Hosted using **GitHub Pages** with version-controlled deployments
+* Acts as a central hub for showcasing projects, skills, and GitHub work
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced AWS (EKS, Lambda, CodePipeline)  
-- Kubernetes Cluster Management  
-- DevSecOps Practices  
-- Cloud Automation & Infrastructure as Code  
+* Advanced AWS (EKS, Lambda, CodePipeline)
+* Kubernetes Cluster Management
+* DevSecOps Practices
+* Infrastructure Automation & IaC
 
 ---
 
 ## 🎯 Goals
 
-- ✅ Clear **AWS Certified Cloud Practitioner (CCP)**  
-- 🚀 Secure a **DevOps Internship / Junior DevOps role**  
-- 🌱 Gain hands-on experience with production-grade cloud systems  
-- 🤝 Contribute to open-source DevOps and cloud projects  
+* ✅ Clear **AWS Certified Cloud Practitioner (CCP)**
+* 🚀 Secure a **DevOps Internship / Junior DevOps Engineer role**
+* 🌱 Gain hands-on experience with production-grade cloud systems
+* 🤝 Contribute to open-source DevOps and cloud-native projects
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshroy50&show_icons=true&theme=tokyonight" height="165"/>
@@ -116,10 +150,10 @@ I actively build projects to strengthen my real-world understanding of AWS, Kube
 
 ## 📫 Connect With Me
 
-- 📧 Email: maheshbhoopathirao@gmail.com  
-- 🌐 Portfolio: https://maheshroy50.github.io/  
-- 💻 GitHub: https://github.com/maheshroy50  
+* 📧 Email: [maheshbhoopathirao@gmail.com](mailto:maheshbhoopathirao@gmail.com)
+* 🌐 Portfolio: [https://maheshroy50.github.io](https://maheshroy50.github.io)
+* 💻 GitHub: [https://github.com/maheshroy50](https://github.com/maheshroy50)
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ **Always learning. Always building.**
